@@ -1,0 +1,8 @@
+C:\Users\Jay Wang\Desktop\C#\简单记事本\简单记事本\bin\Debug\简单记事本.exe
+C:\Users\Jay Wang\Desktop\C#\简单记事本\简单记事本\bin\Debug\简单记事本.pdb
+C:\Users\Jay Wang\Desktop\C#\简单记事本\简单记事本\obj\Debug\简单记事本.Form1.resources
+C:\Users\Jay Wang\Desktop\C#\简单记事本\简单记事本\obj\Debug\简单记事本.Properties.Resources.resources
+C:\Users\Jay Wang\Desktop\C#\简单记事本\简单记事本\obj\Debug\简单记事本.csproj.GenerateResource.cache
+C:\Users\Jay Wang\Desktop\C#\简单记事本\简单记事本\obj\Debug\简单记事本.exe
+C:\Users\Jay Wang\Desktop\C#\简单记事本\简单记事本\obj\Debug\简单记事本.pdb
+C:\Users\Jay Wang\Desktop\C#\简单记事本\简单记事本\bin\Debug\简单记事本.exe.config
